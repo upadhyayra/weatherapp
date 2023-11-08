@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+    background: url("../images/mountains.svg") no-repeat;
+    height: 100vh;
+    color: #fff;
+    background-color: #1f4e69;
+    background-size: cover;
+    background-position: center;
+}
+.weather{
+    border: 4px solid #608094 ;
+    height: 440px;
+    width:80%;
+    margin: auto;
+    margin-top: 50px;
+    background: #16394c;
+}
+.weatherIcon{
+    width: 200px;
+    height: 200px;
+}
+.day{
+    width: 100px;
+     text-align: center;
+}
